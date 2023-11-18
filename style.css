@@ -54,6 +54,10 @@ p {
   box-shadow: var(--box-shadow);
   color: white;
 }
+.primary-link:hover{
+  color: #fff;
+  cursor: pointer;
+}
 
 .secondary-link {
   border-radius: 4px;
